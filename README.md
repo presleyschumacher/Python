@@ -3,3 +3,6 @@
 
 # Python
 This repo is used to store my Python-related notes, basic exercises, and projects.
+
+These notes primarly came from watching Alex the Analyst's tutorials on youtube.
+(https://www.youtube.com/@AlexTheAnalyst)
